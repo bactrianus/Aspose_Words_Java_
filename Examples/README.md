@@ -49,7 +49,7 @@ We think that customers who use our products feel that they use an open source p
 
 The Aspose.Words for Java examples published here at GitHub is a part of the above effort.
 
-##What's Included in this Examples Repository?
+##What's Included in Examples?
 
 ###Code
 
