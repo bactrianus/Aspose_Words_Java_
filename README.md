@@ -1,4 +1,4 @@
-# Aspose.Words for Java Resouces
+# Aspose.Words for Java Resources
 - Examples
 - Plugins
 - Showcases
