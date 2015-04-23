@@ -1,4 +1,4 @@
-##Aspose.Words for Java Examples Repository
+##Aspose.Words for Java Examples
 
 This package contains Java Example Projects for [Aspose.Words for Java](http://www.aspose.com/categories/java-components/aspose.words-for-java/default.aspx).
 
